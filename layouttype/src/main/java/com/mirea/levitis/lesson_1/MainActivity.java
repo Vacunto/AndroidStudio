@@ -1,4 +1,4 @@
-package com.mirea.levitis.practice1;
+package com.mirea.levitis.lesson_1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,5 +11,4 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
 }
